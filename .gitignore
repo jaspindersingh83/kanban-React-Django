@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#nodemodules
+node_modules
+
+#database
+db.sqlite3
